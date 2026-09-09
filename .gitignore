@@ -1,0 +1,13 @@
+node_modules/
+.next/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+!.env.local.example
+apps/api/src/generated/
+*.log
+.DS_Store
+.idea/
+.vscode/
